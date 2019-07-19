@@ -103,7 +103,7 @@ title: "Skills"
         specific list of athletic disciplines that you’re proficient
         with.
       - Also used as the movement skill for humanoid creatures.
-      - Example Proficiencies: Acrobatics, Climbing, Parkour, Sprinting,
+      - Example Proficiencies: Acrobatics, Climbing, Flying, Parkour, Sprinting,
         Swimming, *specific sports*
 
   - Barter (SAV)
@@ -189,12 +189,6 @@ title: "Skills"
       - Active, Combat, Physical
       - Your general-use defense skill, representing your ability to avoid attacks.
       - Can also be used to test your ability to dodge and evade.
-
-  - Fly (COO)
-    
-      - Active, Movement, Physical
-      - Used to represent your character’s skill at flying and areal maneuvering.
-      - There’s no rule against a creature that can’t fly taking ranks in the fly skill—although it also won’t do them much good.
 
   - Intimidate (SAV)
     
