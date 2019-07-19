@@ -28,7 +28,7 @@ title: "Skills"
         take ranks in *Art*, but you can take ranks in *Art: Sculpture*.
       - You can take the same field skill more than once, as long as you
         pick a different field each time. For example, you can take
-        ranks in *Art: Painting *and *Art: Sculpture*, and you would
+        ranks in *Art: Painting* and *Art: Sculpture*, and you would
         treat the two as two entirely separate skills in every way.
       - Each field skill will include a list of sample fields. You don’t
         have to pick one of the samples, but if you don’t, you should

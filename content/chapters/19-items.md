@@ -86,7 +86,7 @@ character suffers a -10 penalty to all physical actions. Other affects
 ## Armors
 
 The following listings are for common types of armor. Each entry is for
-a full* suit* or* set* of the given armor type (that is, helmets,
+a full *suit* or *set* of the given armor type (that is, helmets,
 gauntlets and grieves are not purchased separately).
 
 Armor is often heavy and cumbersome, and it is not normally possible to
@@ -358,7 +358,7 @@ the listed penalty when attempting the given maneuver.
 Many weapons are particularly difficult to use in confined spaces, where
 drawing and swinging a weapon is difficult. Some weapons, however, can
 be used effectively even when you have very little room to maneuver.
-Weapons with the** Close** tag can be used in confined spaces without
+Weapons with the **Close** tag can be used in confined spaces without
 penalty.
 
 Weapons with the **Small** tag can also be used in confined spaces by
