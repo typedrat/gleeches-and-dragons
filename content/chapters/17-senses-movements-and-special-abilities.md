@@ -32,6 +32,9 @@ This list is by no means exhaustive.
     effect is by studying it (a 10 minute task action, requiring an
     appropriate Knowledge check).
 
+      - As being of magic, Spirits are perceptible to those with mage sight.  However, their nature may appear strange or chaotic, and difficult to understand&mdash;powerful spirits especially may be entirely overwhelming, or impossible to understand.
+      - Some beings (and some powers) can partially mask their magical nature; in these cases, an opposed test is required (the power or creature will specify the test).
+
   - Scent: you have an extremely keen sense of smell. This allows you to
     detect many sneaking creatures, and to identify things by smell.
 

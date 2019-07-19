@@ -77,7 +77,6 @@ Assist action during combat.
       - You are part of the nascent middle class of traders and professionals
       - 10 ranks in Barter
       - 10 ranks in two Technical skills
-      - ~~~either one Medium Trade Goods and one Skill Kit, or one Shop~~~
       - either two Skill Kits or one Shop
       - Common Races: Ash Elves, Dwarves, Halflings, Humans, Kobolds, Ratfolk
       - Common Languages: Weal, Islander, Common
@@ -88,7 +87,7 @@ Assist action during combat.
       - 10 ranks in Handle Animal
       - 10 ranks in Survival
       - 10 ranks in either Profession: Shepherd, Profession: Farmer or Profession: Hunter
-      - the Quick trait
+      - the Ready Trait
       - Common Races: Shifters, Wood Elves, Herders, Gnolls
       - Common Languages: tribal languages (many tribes speak their own unique languages)
 
@@ -98,20 +97,18 @@ Assist action during combat.
       - one dot in Language: Common
       - one Skill Kit
       - 10 ranks in Protocol
-      - 10 ranks in each of two Social or Technical skills of your choice
+      - 10 ranks each in two Social or Technical skills of your choice
       - Common Races: Kobolds, Humans, Ratfolk
       - Common Languages: Weal
 
   - Wayfarer
     
-      - Wanderers, vagrants and transients by birth, choice or
-        circumstance.
+      - Wanderers, vagrants and transients by birth, choice or circumstance.
       - 10 ranks in Survival
       - 10 ranks in Medicine
-      - ~~10 ranks in Language: Common~~
       - 1 dot in Common
       - 1 Skill Kit.
-      - Trait: alert
+      - the Alert Trait
       - Common Races: any
       - Common Languages: any
 
@@ -120,8 +117,7 @@ Assist action during combat.
 Traits represent special properties about your character. In general,
 Traits are not actions; they are always in effect during play.
 
-  - Alert: You are particularly aware of your surroundings. You take no
-    penalty to passive Perception tests.
+  - Alert: You are particularly aware of your surroundings. You take no penalty to passive Perception tests.
 
   - Ambidextrous: Choose one of your hands: you may now use that hand as
     well as your dominant hand. Notably, this means that the penalties
@@ -138,35 +134,17 @@ Traits are not actions; they are always in effect during play.
     a *good idea* or not; alternatively, the GM may warn you that
     something you are about to do is a *bad idea*.
 
-  - Disciplined: You are particularly good at self-control. After you
-    roll a test that includes your WIL, you may spend 1 Luck to Upgrade.
+  - Disciplined: You are particularly good at self-control. You may spend 1 luck to reroll a check that includes your WIL.
 
-  - High Pain Tolerance: your character can *negate* the effect of one
-    wound.
+  - High Pain Tolerance: your character can *negate* the effect of one wound.
 
-  - Limber: Your character is very lithe, and receives a +10 bonus on
-    checks where this would be beneficial, such as trying to escape
-    bindings or squeeze through tight spaces.
+  - Limber: Your character is very lithe, and receives a +10 bonus on checks where this would be beneficial, such as trying to escape bindings or squeeze through tight spaces.
 
   - Ready: you may spend a Luck Point to re-roll your initiative.
-    
-      - ~~~original idea: +2 INIT~~~
-      - ~~~possible better idea: once per combat, you may move to head of the initiative order for the following turn.~~~
-      - ~~~or roll your INIT twice, and take the best result.~~~
-      - I like both of those more, I think, because I usually prefer
-        abilities that are really interesting discretely over ones that
-        do a little bit constantly. And also because I prefer people
-        invest in good Aptitutdes if they want good numbers. But it
-        might also be OK, since INIT isn’t a skill and you can’t invest
-        in it directly.
-      - ~~~In combat, you may spend a Luck Point to move to the head of the initiative order.~~~
 
-  - Resilient: you are particularly mentally durable. You can negate one
-    Trauma.
+  - Resilient: you are particularly mentally durable. You can negate one Trauma.
 
-  - Social Animal: you are particularly well-suited to large groups and
-    complex social situations. You may spend a Luck Point to reroll a
-    social skill check.
+  - Social Animal: you are particularly well-suited to large groups and complex social situations. You may spend a Luck Point to reroll a social skill check.
 
   - Strong: you are particularly strong. This increases your STR by 5.
 
@@ -826,6 +804,8 @@ and are thus listed here.
         
           - You gain +10 bonus to Stealth checks to avoid being seen.
 
+      - Special: The Blur power is partially masked; a character with Mage Sight needs to make a Perception check to detect it.
+
   - Vanish
     
       - Requires: Blur, 20 Ranks in Spellcraft, 20 Ranks in Stealth
@@ -839,6 +819,8 @@ and are thus listed here.
           - You may use Stealth to avoid being seen even if you do not
             have anything to hide behind. Such a Stealth check suffers a
             -20 modifier.
+
+      - Special: Vanish is more effectively masked; a character with Mage Sight needs to make an opposed perception test to notice it, the spotting character's Perception versus the vanishing character's Spellcraft.
 
   - Charm
     

@@ -1439,70 +1439,6 @@ Optional Background: Wood Elf Tribal Commuity
 
 ### Tempters
 
-<aside class="designnote">
-I haven't decided which version I like most yet.
-The old one (V1) was both too powerful (because Tempters could shapeshift into anyone without needing a skill or power), but also kind of painful (because they had 20 STR and DUR to balance it).
-The new version (V2) is less punitive (because now they have 30 DUR and STR), but also more balanced (because now they have to invest in a skill and powers&mdash;and also because they have fewer apt bonuses).
-(It also makes it way more expensive to really play into a shape-shifting Tempter, but that's probably not a bad thing given how powerful that ability can be.)
-My reservations about V2 are, a) is it balanced <i>enough</i> (or too much?), and b) is it too complex?
-
-These guys need more balance work.
-</aside>
-
-#### V1
-
-  - Vitals:
-    
-      - Old Age: None
-      - Average Height: by shape
-      - Average Weight: by shape
-
-  - shape-shifting spirit beings. Charming and suave, but also very frail.
-
-  - They can shape shift freely.
-  
-  - They tend to live in urban centers among other races. Some Tempters live openly among the large cities of the Commonwealth; more almost certainly live in secret.
-
-  - DUR 20, STR 20
-
-  - \+5 INT, +10 SAV, +5 WIL
-
-  - Movement: Shape-Dependant (Flight 5 / 15 / 60, Foot 4 / 12 or Swim 4 / 12)
-
-  - Senses: Normal, Mage-Sight
-
-  - Tags: Spirit, Shape-Shifter, Tempter
-
-  - Language Group: Shape-Dependant (HHED / GR / DDK)
-
-  - *Appearance of Flesh*: Tempters are Spirits, and thus they do not age, do not need to eat, drink or breath, and do not need to sleep.  However, even though they are Spirits, they are physical beings (and thus, their bodies may be wounded, and they may be killed, using all the rules for normal creatures). More than that, it is required of them that their form always resemble that of a flesh-and-blood creature–although the details of their form are otherwise up to them.
-
-  - *Shape-Shifting*: Tempters can take the form of any medium-sized
-    natural creature. They can control the details of their physical
-    form as they wish, including being able to mimic specific
-    individuals.
-    
-      - They can change shape as a Standard Action.
-      - They have fine control over their appearance. They can mimic a
-        specific individual; this requires a Disguise check at +20.
-      - Changing shape does not affect their statistics; however, as
-        listed above, they receive appropriate movement modes and
-        natural attacks.
-
-  - Note: as Spirits, Tempters are immediately obvious to anyone with
-    Mage-Sight.
-
-  - Optional Negative Trait: Bind
-    
-      - You have a *bind*, the details of which you should work out with
-        your GM. The bind should pose a real danger to you. It must be
-        known to at least one clerical organization in the area where
-        you live – although it does not need to be widely known. (This
-        is a negative trait; it you select it, you *gain* 10 CP, which
-        you may then spend elsewhere.)
-
-#### V2
-
   - Vitals:
     
       - Old Age: None
@@ -1529,17 +1465,14 @@ These guys need more balance work.
 
   - *Appearance of Flesh*: Tempters are Spirits, and thus they do not age, do not need to eat, drink or breath, and do not need to sleep.  However, even though they are Spirits, they are physical beings (and thus they have STR and DUR scores, and they may be wounded or killed using all the normal rules for creatures). More than that, it is required of them that their form always resemble that of a flesh-and-blood creature–although the details of their form are otherwise up to them.
 
-  - *Shape-Shifting*: Tempters can take the form of any medium-sized natural creature. They can control the details of their physical form as they wish, including being able to mimic specific
-    individuals.
+  - *Shape-Shifting*: Tempters can take the form of any medium-sized natural creature. They can control the details of their physical form as they wish, including being able to mimic specific individuals.
     
-      - This process is somewhat difficult, and doing so competently requires practice.  Tempters use Exotic Skill: Shapeshifting to represent their shapeshifting competency, see below.
       - They can change shape as a Standard Action.
-      - They have fine control over their appearance. They can mimic a specific individual, but this requires a Shapeshifting check at +10.
+      - Assuming the form of a *specific* individual requires a Disguise check at +10.
       - To competently impersonate a person whose shape they have assumed, they will still need to use the Disguise and Deception skills, but they receive a +30 and +10 bonus on these checks, respectively.
-      - Changing shape does not affect their statistics; see the powers below, however.
+      - Normally, changing shape does not affect their statistics&mdash;but see the powers listed below.
 
-  - Note: as Spirits, Tempters are immediately obvious to anyone with
-    Mage-Sight.
+  - Since they are spirits, people with Mage Sight can potentially see a Tempter's magical nature; however, Tempters have the ability to partially mask themselves.  Detecting a tempter with Mage Sight requires an opposed test, the Perception skill of the character with Mage Sight versus the Tempter's WIL+WIL+INT.
 
   - Optional Negative Trait: Bind
     
@@ -1550,23 +1483,15 @@ These guys need more balance work.
         is a negative trait; it you select it, you *gain* 10 CP, which
         you may then spend elsewhere.)
 
-  - Exotic Skill: Shapeshifting
-  
-      - The Shapeshifting exotic skill is INT-linked, and has the Active, Physical and Mental tags.
-      - Much as a humanoid can walk without ranks in Athletics, a Tempter can control their form with fewer than 10 ranks (or even *no* ranks) in Shapeshifting; however, they will find it difficult, and may settle on one or a few shapes that they can reproduce well.
-      - And much as an Athletics check is not required merely to walk across town, a Shapeshifting check is not requried for a Tempter to change shape; Shapeshifting checks are only required when the feat of shape-control that the Tempter is trying to achieve is difficult.
-
   - Optional Power: More than Form Alone
 
-      - Requires: 20 Ranks in Shapeshifting
       - More than simply assuming the shape of a given race, you can adopt some of their nature.
       - When you assume the form of a given race, you may choose one Aptitude in which that race has a bonus; you gain a +5 bonus to the chosen aptitude.
       - You may choose STR or DUR if that race has a higher STR or DUR than you do.
       - You must choose either INT, SAV or WIL and take a -5 penalty to that aptitude.
 
-  - Optional Power: To Crawl and Soar
+  - Optional Power: Tempter, To Crawl and Soar
 
-      - Requires: 20 Ranks in Shapeshifting
       - You can mimic the construction of other races well enough that you gain some of their biological capabilities.
       - When you assume the form of a given race, you may choose two of the following:
           - One Movement Mode that race has.
@@ -1574,9 +1499,9 @@ These guys need more balance work.
           - That race's armor bonus (not more than +3).
           - One natural attack that race has.
 
-  - Optional Class: Master Shifter
+  - Optional Class: Tempter, Master Shifter
 
-      - Requires: 30 Ranks in Shapeshifting, either the *More than Form Alone* or *To Crawl and Soar* power (or both)
+      - Requires: either the *More than Form Alone* or *To Crawl and Soar* power (or both)
       - If you have the *More than Form Alone* power, you may choose a second aptitude to gain a bonus in, using the same rules as the first.
       - (You don't have to take another -5 penalty.)
       - If you have the *To Crawl and Soar* power, you choose four times.
