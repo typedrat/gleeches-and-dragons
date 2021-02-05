@@ -1,0 +1,29 @@
+article table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show;
+}
+
+article table td,
+article table th {
+    border-bottom: 1px solid #1a1a1a;
+}
+
+article table td:not(:empty),
+article table th:not(:empty) {
+    font-size: inherit;
+    margin: 0;
+    overflow: visible;
+    padding: 0.5em 1em;
+}
+
+article table th:not(:first-child):not(:empty),
+article table td:not(:first-child):not(:empty) {
+    border-left: 1px solid #1a1a1a;
+}
+
+article table thead {
+    color: #000;
+    text-align: left;
+    vertical-align: bottom;
+}

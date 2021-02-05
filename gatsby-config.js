@@ -71,7 +71,12 @@ module.exports = {
         ]
       }
     },
-    `gatsby-plugin-anchor-links`,
+    {
+      resolve: "gatsby-plugin-anchor-links",
+      options: {
+        offset: 64,
+      }
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

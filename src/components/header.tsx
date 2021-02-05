@@ -1,10 +1,10 @@
-import React from "react";
+import * as React from "react";
 import { Link } from "gatsby";
 import { makeStyles } from '@material-ui/core/styles';
 
 const brandingStyles = makeStyles({
     header: {
-        height: '140px'
+        minHeight: '140px'
     },
     link: {
         textDecoration: 'none'
